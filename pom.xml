@@ -378,8 +378,6 @@
           </plugins>
 		  <plugins>
   </plugins>
-  <plugins>
-  </plugins>
         </pluginManagement>
       </build>
     </profile>
